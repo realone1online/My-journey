@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @realone1online, Adetunji Rilwan
 - 👀 I’m interested in Machine Learning developer jobs
 - 🌱 I’m currently learning data analytics and machine learning
-- 💞️ I’m looking to collaborate on machine learning projects
+- 💞️ I’m looking to collaborate on machine learning and data analysis projects
 - 📫 I can be reached on realone1online@gmail.com
 
 <!---
