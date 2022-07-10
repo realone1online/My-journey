@@ -1,1 +1,1 @@
-my journey of transitioning into Data analytics and Machine Learning Developer
+my journey of transitioning into Data analytics and Machine Learning
