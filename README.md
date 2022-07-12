@@ -1,1 +1,1 @@
-Documentation of my journey as i transition into Data analytics and Machine Learning
+Documentation of my journey as I transition into Data analytics and Machine Learning
